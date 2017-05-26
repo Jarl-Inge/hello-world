@@ -1,6 +1,4 @@
 # hello-world
-Just another repository
-
 Dear Sir's, ladies and gentlemans, aliens and others that I don't know about at this moment in time
 
 Jarl-Inge alias ZeBoss here.
